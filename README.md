@@ -12,6 +12,6 @@
 html/css/sass/react/redux/
 ### Codewars
 ![codewars](https://www.codewars.com/users/pestler/badges/large)
-(https://www.codewars.com/users/pestler)
+!(https://www.codewars.com/users/pestler)
 #### rsschool-cv
 https://pestler.github.io/rsschool-cv/
