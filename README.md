@@ -1,5 +1,5 @@
-### Hi 👋, my name is Aleh
-#### I am Frontend Developer
+## Hi 👋, my name is Aleh
+### I am Frontend Developer
 - 🔭 I’m currently working on product sales company
 - 🌱 I’m currently learning  js and react
 - 👯 I’m looking to collaborate on js-react
@@ -11,7 +11,7 @@
 🔝 Top Languages
 html/css/sass/react/redux/
 ### Codewars
-[codewars](https://www.codewars.com/users/pestler/badges/large)
+![codewars](https://www.codewars.com/users/pestler/badges/large)
 (https://www.codewars.com/users/pestler)
 #### rsschool-cv
 https://pestler.github.io/rsschool-cv/
