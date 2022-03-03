@@ -26,7 +26,7 @@
 ### Codewars
 [![codewars](https://www.codewars.com/users/pestler/badges/large)](https://www.codewars.com/users/pestler)
 
-[![GitHub Anurag stats](https://github-readme-stats.vercel.app/api?pestler=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Anurag stats](https://github-readme-stats.vercel.app/api?username=pestler)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
