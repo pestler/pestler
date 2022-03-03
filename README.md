@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with react
 - 💬 Ask me about react
 - 📫 How to reach me: cv-info
-- 😄 Pronouns: Minsk
-- ⚡ Fun fact: i from austria
+- ⚡ Fun fact: Programming is thinking, not typing
   
   Technologies: web  
 
