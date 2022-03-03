@@ -27,6 +27,9 @@
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pestler&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Codewars
 [![codewars](https://www.codewars.com/users/pestler/badges/large)](https://www.codewars.com/users/pestler)
+
 
