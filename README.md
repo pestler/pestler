@@ -28,5 +28,5 @@
 #### rsschool-cv
 https://pestler.github.io/rsschool-cv/
 
-![](https://komarev.com/ghpvc/?username=pestler&color=grey&style=flat-for-the-badge)
+![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
