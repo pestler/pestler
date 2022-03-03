@@ -25,8 +25,8 @@
 
 ### Codewars
 [![codewars](https://www.codewars.com/users/pestler/badges/large)](https://www.codewars.com/users/pestler)
-#### rsschool-cv
-https://pestler.github.io/rsschool-cv/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pestler=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
