@@ -1,5 +1,6 @@
 ## Hi 👋, my name is Aleh
 ### I am Frontend Developer
+### I am looking for a job or practice
 - 🔭 I’m currently working on product sales company
 - 🌱 I’m currently learning  js and react
 - 👯 I’m looking to collaborate on js-react
