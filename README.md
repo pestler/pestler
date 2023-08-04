@@ -1,10 +1,10 @@
 ## Hi 👋, my name is Aleh
 ### I am Frontend Developer
-### I am looking for a job or practice
-- 🔭 I’m currently working on product sales company
+### and looking for a job or practice
+- 🔭 currently working on product sales company
 - 🌱  but i learning  js, ts, and react
-- 👯 I’m looking to collaborate on js-react
-- 🤔 I’m looking for help with react
+- 👯 looking to collaborate on js-react
+- 🤔 looking for help with react
 - 💬 Ask me about react
 - 📫 How to reach me: cv-info
 - ⚡ Fun fact: Programming is thinking, not typing  
