@@ -33,6 +33,6 @@
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
 ### Codewars
-[![codewars]https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
+[![codewars](https://www.codewars.com/users/pestler/badges/large)](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
 
 
