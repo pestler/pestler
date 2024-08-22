@@ -2,10 +2,7 @@
 ### I am Frontend Developer
 ### and looking for a job or practice
 - 🔭 currently working on product sales company
-- 🌱  but i learning  js, ts, and react
-- 👯 looking to collaborate on js-react
-- 🤔 looking for help with react
-- 💬 Ask me about react
+- 🌱  but i learning  Angular and Node JS
 - 📫 How to reach me: cv-info
 - ⚡ Fun fact: Programming is thinking, not typing  
   Technologies: web  
