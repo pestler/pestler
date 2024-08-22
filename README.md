@@ -25,8 +25,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub Anurag stats](https://github-readme-stats.vercel.app/api?username=pestler&repo=github-readme-stats&show_icons=true&theme=radical)](https://github.com/pestler/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact)](https://github.com/pestler/github-readme-stats)
+[![GitHub Anurag stats](https://github-readme-stats.vercel.app/api?username=pestler&repo=github-readme-stats&show_icons=true&theme=radical)](https://github.com/pestler/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact)](https://github.com/pestler/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
 ### Codewars
