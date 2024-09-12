@@ -1,6 +1,5 @@
 ## Hi 👋, my name is Aleh
 ### I am Frontend Developer
-### and looking for a job or practice
 - 🔭 currently working on product sales company
 - 🌱  but i learning  Angular and Node JS
 - 📫 How to reach me: cv-info
