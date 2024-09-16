@@ -3,6 +3,11 @@
 <img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=junior%20front-end%20developer%20learning%20in%20RS%20School&bg=beige&fill=gray">
 </p>
 
+<h2>📱 Contact Me</h2>
+
+<div align="left" id="contact_badges">
+  <a href="https://t.me/pestler" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
+
 <h2>🔝 Top Languages</h2>
 
 [![HTML5][HTML5]][HTML5-url]
