@@ -7,6 +7,7 @@
 
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
+[![SASS][SASS]][SASS-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
 [![Angular][Angular]][Angular-url]
@@ -16,7 +17,6 @@
 [![Redux][Redux]][Redux-url]
 [![SQL][SQL]][SQL-url]
 [![Markdown][Markdown]][Markdown-url]
-[![SASS][SASS]][SASS-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
