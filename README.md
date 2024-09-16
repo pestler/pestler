@@ -1,7 +1,43 @@
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=junior%20front-end%20developer%20learning%20Angular%20in%20RS%20School&bg=beige&fill=gray"></p>
+<p align="center">
+<img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=junior%20front-end%20developer%20learning%20Angular%20in%20RS%20School&bg=beige&fill=gray">
+</p>
 
-🔝 Top Languages
+<h2>🔝 Top Languages</h2>
+
+[![Angular][Angular]][Angular-url]
+[![RxJS][RxJS]][RxJS-url]
+[![NgRx][NgRx]][NgRx-url]
+[![Redux][Redux]][Redux-url]
+[![Javascript][Javascript]][Javascript-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+[![HTML5][HTML5]][HTML5-url]
+[![SQL][SQL]][SQL-url]
+[![Markdown][Markdown]][Markdown-url]
+[![CSS3][CSS3]][CSS3-url]
+[![SASS][SASS]][SASS-url]
+[![AngularMaterial][AngularMaterial]][AngularMaterial-url]
+[![Git][Git]][Git-url]
+[![GitHub][GitHub]][GitHub-url]
+[![GitHubActions][GitHubActions]][GitHubActions-url]
+[![Netlify][Netlify]][Netlify-url]
+[![npm][npm]][npm-url]
+[![Vite][Vite]][Vite-url]
+[![Webpack][Webpack]][Webpack-url]
+[![Husky][Husky]][Husky-url]
+[![Eslint][Eslint]][Eslint-url]
+[![Airbnb][Airbnb]][Airbnb-url]
+[![Prettier][Prettier]][Prettier-url]
+[![Stylelint][Stylelint]][Stylelint-url]
+[![Postman][Postman]][Postman-url]
+[![Axios][Axios]][Axios-url]
+[![WebSocket][WebSocket]][WebSocket-url]
+[![Vitest][Vitest]][Vitest-url]
+[![Jest][Jest]][Jest-url]
+[![Jasmine][Jasmine]][Jasmine-url]
+[![Trello][Trello]][Trello-url]
+[![Figma][Figma]][Figma-url]
+[![VSCode][VSCode]][VSCode-url]
 
 [Angular]: https://img.shields.io/badge/angular-C2185B.svg?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.dev/
@@ -94,7 +130,7 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=pestler&show_icons=true&theme=default"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&theme=default"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact&theme=default"/>
 </div>
 
 
