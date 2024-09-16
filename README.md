@@ -5,18 +5,18 @@
 
 <h2>🔝 Top Languages</h2>
 
+[![HTML5][HTML5]][HTML5-url]
+[![CSS3][CSS3]][CSS3-url]
+[![Javascript][Javascript]][Javascript-url]
+[![TypeScript][TypeScript]][TypeScript-url]
 [![Angular][Angular]][Angular-url]
+[![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![RxJS][RxJS]][RxJS-url]
 [![NgRx][NgRx]][NgRx-url]
 [![Redux][Redux]][Redux-url]
-[![Javascript][Javascript]][Javascript-url]
-[![TypeScript][TypeScript]][TypeScript-url]
-[![HTML5][HTML5]][HTML5-url]
 [![SQL][SQL]][SQL-url]
 [![Markdown][Markdown]][Markdown-url]
-[![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
-[![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
