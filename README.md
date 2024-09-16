@@ -92,9 +92,9 @@
 
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestlerg&theme=transparent"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=pestlerg&show_icons=true&theme=default"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestlerg&layout=compact&theme=default"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=pestler&show_icons=true&theme=default"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact&theme=default"/>
 </div>
 
 
