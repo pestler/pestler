@@ -1,10 +1,7 @@
 ## Hi 👋, my name is Aleh
 ### I am Frontend Developer
-- 🔭 currently working on product sales company
-- 🌱  but i learning  Angular and Node JS
-- 📫 How to reach me: cv-info
-- ⚡ Fun fact: Programming is thinking, not typing  
-  Technologies: web  
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular%20in%20RS%20School&bg=aliceblue&fill=black"></p>
+
 🔝 Top Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
