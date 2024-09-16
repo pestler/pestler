@@ -91,17 +91,17 @@
 [VSCode-url]: https://code.visualstudio.com/
 
 
-<div align="center">
+
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=pestler&show_icons=true&theme=default"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact&theme=default"/>
-</div>
 
 
 
-[![GitHub Anurag stats](https://github-readme-stats.vercel.app/api?username=pestler&repo=github-readme-stats&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact)
+[![GitHub Anurag stats](https://github-readme-stats.vercel.app/api?username=pestler&repo=github-readme-stats&show_icons=true&theme=radical)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact)]
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
