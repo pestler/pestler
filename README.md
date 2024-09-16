@@ -15,6 +15,11 @@
 [![RxJS][RxJS]][RxJS-url]
 [![NgRx][NgRx]][NgRx-url]
 [![Redux][Redux]][Redux-url]
+[![React][React]]
+[![React Router][React Router]]
+[![Redux][Redux]]
+[![Styled Components][Styled Components]]
+[![NodeJS][NodeJS]]
 [![SQL][SQL]][SQL-url]
 [![Markdown][Markdown]][Markdown-url]
 [![Git][Git]][Git-url]
@@ -125,7 +130,11 @@
 [Canva-url]: https://www.canva.com/
 [VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
-
+[React Router]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+[React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white
+[Redux]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Styled Components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
@@ -138,5 +147,3 @@
 
 ### Codewars
 [![codewars](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
-
-
