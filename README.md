@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=junior%20front-end%20developer%20learning%20in%20RS%20School&bg=beige&fill=gray">
+<img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=front-end%20developer%20learning%20in%20RS%20School&bg=beige&fill=gray">
 </p>
 
 <h2>📱 Contact Me</h2>
