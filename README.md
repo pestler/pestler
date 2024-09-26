@@ -1,7 +1,5 @@
-
-<p align="center">
-<img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=front-end%20developer%20learning%20in%20RS%20School&bg=beige&fill=gray">
-</p>
+<div align="left" id="contact_badges">
+  <a href="https://t.me/pestler" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
 
 <h2>📱 Contact Me</h2>
 
