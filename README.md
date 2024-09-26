@@ -6,7 +6,25 @@
 <h2>📱 Contact Me</h2>
 
 <div align="left" id="contact_badges">
-  <a href="https://t.me/pestler" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
+  <a href="https://t.me/pestler" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+<h2>🎬 School Angular Project</h2>
+
+📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
+
+🎥 <a href=["https://pestler/"](https://github.com/rolling-scopes-school/pestler-ANGULAR2024Q3) target="_blank">YouTube Client App Dev</a>
+
+<h2>
+
+<h2>🎬 School React  Project</h2>
+
+
+🎥 <a href=["https://pestler/"](https://github.com/pestler/eCommerce-final) target="_blank">eCommerce-final Shop Dev</a>
+
+<h2>
 
 <h2>🔝 Top Languages</h2>
 
