@@ -13,11 +13,12 @@
 
 <h2>🎬 School Angular Project</h2>
 
-📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
-
 🎥 <a href="https://rolling-scopes-school.github.io/pestler-ANGULAR2024Q3" target="_blank">YouTube Client App Deploy</a>
 
-   <a href="https://github.com/pestler/youtube" target="_blank">YouTube Client App Dev</a>
+📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
+
+🎬 <a href="https://github.com/pestler/youtube-app" target="_blank">YouTube Client App Dev</a>
+
 
 <h2>
 
