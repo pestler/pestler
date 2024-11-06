@@ -41,7 +41,7 @@
 ![React][React]
 ![React Router][React Router]
 ![Redux][Redux]
-![Next JS]
+![Next JS][Next JS]
 ![Styled Components][Styled Components]
 ![NodeJS][NodeJS]
 [![SQL][SQL]][SQL-url]
@@ -157,6 +157,7 @@
 [React Router]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 [React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white
 [Redux]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white 
+[Next JS]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Styled Components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 
