@@ -43,7 +43,8 @@
 ![Redux][Redux]
 ![Next JS][Next JS]
 ![Styled Components][Styled Components]
-![NodeJS][NodeJS]
+![Node JS][Node JS]
+![Nest JS][Nest JS]
 [![SQL][SQL]][SQL-url]
 [![Markdown][Markdown]][Markdown-url]
 [![Git][Git]][Git-url]
@@ -158,7 +159,8 @@
 [React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white
 [Redux]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white 
 [Next JS]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node JS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Nest JS]: https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white
 [Styled Components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 
 <div align="center">
