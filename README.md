@@ -31,9 +31,11 @@
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
-
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
+![Styled Components][Styled Components]
+[![Markdown][Markdown]][Markdown-url]
+
 [![Angular][Angular]][Angular-url]
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![RxJS][RxJS]][RxJS-url]
@@ -43,18 +45,19 @@
 ![React Router][React Router]
 ![Redux][Redux]
 ![Next JS][Next JS]
-![Styled Components][Styled Components]
+
 ![Node JS][Node JS]
 ![Nest JS][Nest JS]
 [![Postman][Postman]][Postman-url]
 [![Axios][Axios]][Axios-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![SQL][SQL]][SQL-url]
-[![Markdown][Markdown]][Markdown-url]
+
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
 [![Netlify][Netlify]][Netlify-url]
+
 [![npm][npm]][npm-url]
 [![Vite][Vite]][Vite-url]
 [![Webpack][Webpack]][Webpack-url]
@@ -62,7 +65,7 @@
 [![Eslint][Eslint]][Eslint-url]
 [![Airbnb][Airbnb]][Airbnb-url]
 [![Prettier][Prettier]][Prettier-url]
-[![Stylelint][Stylelint]][Stylelint-url]
+
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
 [![Jasmine][Jasmine]][Jasmine-url]
