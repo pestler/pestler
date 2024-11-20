@@ -48,6 +48,7 @@
 
 ![Node JS][Node JS]
 ![Nest JS][Nest JS]
+![Prisma][Prisma]
 [![Postman][Postman]][Postman-url]
 [![Axios][Axios]][Axios-url]
 [![WebSocket][WebSocket]][WebSocket-url]
@@ -66,6 +67,8 @@
 [![Airbnb][Airbnb]][Airbnb-url]
 [![Prettier][Prettier]][Prettier-url]
 
+
+[![Docker][Docker]][Docker-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
 [![Jasmine][Jasmine]][Jasmine-url]
@@ -115,6 +118,9 @@
 [Netlify-url]: https://www.netlify.com/
 [Vite]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
+[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+[Prisma]:https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
 [Webpack]: https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white
 [Webpack-url]: https://webpack.js.org/
 [Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white
