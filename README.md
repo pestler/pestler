@@ -11,21 +11,6 @@
   </a>
 </div>
 
-#<h2>🎬 School Angular Project</h2>
-
-#🎥 <a href="https://rolling-scopes-school.github.io/pestler-ANGULAR2024Q3" target="_blank">YouTube copy Client App Deploy</a>
-
-#📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
-
-#<h2>
-
-#<h2>🎬 School React  Project</h2>
-
-
-#🎥 <a href="https://github.com/pestler/eCommerce-final" target="_blank">eCommerce-final Shop Dev</a>
-
-<h2>
-
 <h2>🔝 Top Languages</h2>
 
 [![HTML5][HTML5]][HTML5-url]
