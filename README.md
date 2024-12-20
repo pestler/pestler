@@ -5,11 +5,7 @@
 
 <h2>📱 Contact Me</h2>
 
-<div align="left" id="contact_badges">
-  <a href="https://t.me/pestler" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pestler)
 
 <h2>🔝 Top Languages</h2>
 
@@ -158,11 +154,11 @@
 [Nest JS]: https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white
 [Styled Components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 
-<div align="center">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=pestler&show_icons=true&theme=default"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact&theme=default"/>
-</div>
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
