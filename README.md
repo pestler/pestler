@@ -64,8 +64,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBvZjhsaXE0NzZ3YmxnOWhndWF0bXR2ODE2aGpzdXdrNzhsenEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp" alt="Coding Animation">
-    
+    <img src="https://github.com/features/copilot" alt="Copilot Animation">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
