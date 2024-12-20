@@ -55,10 +55,16 @@
 [![Trello][Trello]][Trello-url]
 [![Figma][Figma]][Figma-url]
 [![VSCode][VSCode]][VSCode-url]
+[![Copilot][Copilot]][Copilot-url]
 
-<p align="center">    
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=pestler&show_icons=true&theme=default"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestler&layout=compact&theme=default"/>
+</p>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
@@ -146,3 +152,5 @@
 [Figma-url]: https://www.figma.com/
 [VSCode]: https://img.shields.io/badge/visual_studio_code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
+[Copilot]: https://img.shields.io/badge/copilot-000000.svg?style=for-the-badge&logo=github&logoColor=white
+[Copilot-url]: https://github.com/features/copilot
