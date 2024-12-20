@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Funny Animation">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
