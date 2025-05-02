@@ -36,6 +36,7 @@
 [![Axios][Axios]][Axios-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![SQL][SQL]][SQL-url]
+[![Firebase][Firebase][Firebase-url]
 
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
@@ -158,3 +159,5 @@
 [VSCode-url]: https://code.visualstudio.com/
 [Copilot]: https://img.shields.io/badge/copilot-000000.svg?style=for-the-badge&logo=github&logoColor=white
 [Copilot-url]: https://github.com/features/copilot
+[Firebase]: https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white
+[Firebase-url]: https://firebase.google.com/
