@@ -36,7 +36,7 @@
 [![Axios][Axios]][Axios-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![SQL][SQL]][SQL-url]
-[![Firebase][Firebase][Firebase-url]
+[![Firebase][Firebase]][Firebase-url]
 
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
