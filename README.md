@@ -1,9 +1,9 @@
 ### 👋 About Me
 
-Hi there!  
-I'm **Aleh Pestler**, a passionate front-end developer currently enhancing my skills at RS School.  
-This personal repository is a dynamic showcase of my projects, continuous learning journey, and the diverse technologies I'm proficient in.  
-Dive in and explore!
+Hello!  
+I am a curious and hardworking person. I am constantly learning and improving my skills every day.  
+I have experience in developing client and server parts of applications, working with databases, creating SPA applications.  
+Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 ---
 
@@ -47,59 +47,41 @@ A Node.js project serving as a home library, built with TypeScript.
 A clone of an RS app, developed as the final task for an Angular course (2025Q3) using TypeScript.
 [Repository Link](https://github.com/pestler/app-clone-angular)
 
-## 🛠️ Skills & Technologies
+## 💼 Experience
 
-Here are some of the key languages, frameworks, and tools I work with:
+### Education Mentor
+**The Rolling Scopes School**
+*   Mentoring developers. Driving engineering excellence. Building smarter teams. I support rising developers through personalized code reviews, debugging guidance, and advocacy for clean, scalable practices. My approach emphasizes collaboration, clarity, and growth — helping others develop confidence in both their skills and mindsets. Passionate about improving workflows, sharing insights, and cultivating a culture of technical ownership.
 
-### Languages
-[![HTML5][HTML5]][HTML5-url]
-[![CSS3][CSS3]][CSS3-url]
-[![SASS][SASS]][SASS-url]
-[![Javascript][Javascript]][Javascript-url]
-[![TypeScript][TypeScript]][TypeScript-url]
-[![Markdown][Markdown]][Markdown-url]
-[![SQL][SQL]][SQL-url]
+## 🛠️ Skills & Expertise
 
-### Frontend Frameworks & Libraries
-[![Angular][Angular]][Angular-url]
-[![AngularMaterial][AngularMaterial]][AngularMaterial-url]
-[![RxJS][RxJS]][RxJS-url]
-[![NgRx][NgRx]][NgRx-url]
-[![Redux][Redux]][Redux-url]
-[![React][React]][React-url]
-[![React Router][React Router]][React Router-url]
-[![Next JS][Next JS]][Next JS-url]
-[![Styled Components][Styled Components]][Styled Components-url]
+### 🎨 Frontend Development
+*   **HTML5, CSS3, SASS** – crafting semantic, responsive, and visually precise interfaces
+*   **JavaScript, TypeScript** – advanced ES6+, asynchronous programming, and typed systems
+*   **Styled Components, Markdown** – modular styling and structured documentation
 
-### Backend & Runtime
-[![Node JS][Node JS]][Node JS-url]
-[![Nest JS][Nest JS]][Nest JS-url]
-[![Prisma][Prisma]][Prisma-url]
-[![Firebase][Firebase]][Firebase-url]
+### ⚡ Frontend Frameworks & Libraries
+*   **Angular** (AngularMaterial, RxJS, NgRx, Redux) – scalable SPA architecture & state management
+*   **React, React Router, Next.js** – SSR/SPA development, dynamic routing, and optimization
 
-### Tools & Platforms
-[![Postman][Postman]][Postman-url]
-[![Axios][Axios]][Axios-url]
-[![WebSocket][WebSocket]][WebSocket-url]
-[![Git][Git]][Git-url]
-[![GitHub][GitHub]][GitHub-url]
-[![GitHubActions][GitHubActions]][GitHubActions-url]
-[![Netlify][Netlify]][Netlify-url]
-[![npm][npm]][npm-url]
-[![Vite][Vite]][Vite-url]
-[![Webpack][Webpack]][Webpack-url]
-[![Husky][Husky]][Husky-url]
-[![Eslint][Eslint]][Eslint-url]
-[![Airbnb][Airbnb]][Airbnb-url]
-[![Prettier][Prettier]][Prettier-url]
-[![Docker][Docker]][Docker-url]
-[![Vitest][Vitest]][Vitest-url]
-[![Jest][Jest]][Jest-url]
-[![Jasmine][Jasmine]][Jasmine-url]
-[![Trello][Trello]][Trello-url]
-[![Figma][Figma]][Figma-url]
-[![VSCode][VSCode]][VSCode-url]
-[![Copilot][Copilot]][Copilot-url]
+### 🛠️ Backend Development
+*   **Node.js, NestJS** – RESTful APIs, authentication, ORM management with Prisma
+*   **SQL, Firebase** – designing relational & cloud-based databases for scalable solutions
+*   **WebSockets, Axios, Postman** – real-time communication, API testing & optimization
+
+### 🚀 DevOps & CI/CD
+*   **Git, GitHub, GitHub Actions** – version control & automated deployment pipelines
+*   **Docker** – containerization for scalability & reproducibility
+*   **Netlify** – frontend deployment & cloud integration
+
+### ⚙️ Development Tools & Best Practices
+*   **pnpm, npm, Vite, Webpack** – efficient builds & performance optimization
+*   **Husky, ESLint, Airbnb, Prettier** – code quality enforcement
+*   **Vitest, Jest, Jasmine** – unit & integration testing
+
+### 🎯 Project Management & UI/UX Collaboration
+*   **Trello, Figma** – workflow management & UI/UX collaboration
+*   **VSCode, gemini, Copilot** – enhancing development efficiency with AI-assisted coding
 
 ## GitHub Stats
 
@@ -121,6 +103,17 @@ Here's an overview of my GitHub activity and contributions:
 
 ## Codewars
 [![codewars](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
+
+## 🎓 Learning & Certifications
+
+Here you can list your educational background, courses completed, and any certifications you've obtained.
+
+*   [RS School Certificate](https://app.rs.school/certificate/xioeoxg7)
+*   [RS School Certificate](https://app.rs.school/certificate/bhms8qfp)
+*   [RS School Certificate](https://app.rs.school/certificate/nlcsdgyn)
+*   [RS School Certificate](https://app.rs.school/certificate/w4x84uks)
+*   **CodePen** - The Rolling Scopes School (Issued July 2023)
+    *   [Accreditation ID](https://www.codewars.com/users/rsschool_f70de6a01e7d1393)
 
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
