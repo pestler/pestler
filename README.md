@@ -21,6 +21,22 @@ Dive in and explore!
   </a>
 </div>
 
+<h2>How to Connect/Collaborate</h2>
+
+I'm always open to connecting with fellow developers, discussing new technologies, or exploring potential collaborations. Feel free to reach out through any of the contact methods above!
+
+## My Projects
+
+Here you'll find a selection of my projects. Click on the project title to visit its repository!
+
+### Node Js Home Library (TypeScript)
+A Node.js project serving as a home library, built with TypeScript.
+[Repository Link](https://github.com/pestler/nodejs2025Q2-service)
+
+### RS App Clone (Angular)
+A clone of an RS app, developed as the final task for an Angular course (2025Q3) using TypeScript.
+[Repository Link](https://github.com/pestler/app-clone-angular)
+
 <h2>🔝 Top Languages</h2>
 
 [![HTML5][HTML5]][HTML5-url]
@@ -68,6 +84,10 @@ Dive in and explore!
 [![Figma][Figma]][Figma-url]
 [![VSCode][VSCode]][VSCode-url]
 [![Copilot][Copilot]][Copilot-url]
+
+## GitHub Stats
+
+Here's an overview of my GitHub activity and contributions:
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pestler&theme=transparent"><br>
