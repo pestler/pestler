@@ -7,7 +7,17 @@ Dive in and explore!
 
 ---
 
-<h2>📱 Contact Me</h2>
+## Table of Contents
+
+*   [📱 Contact Me](#-contact-me)
+*   [How to Connect/Collaborate](#how-to-connectcollaborate)
+*   [My Projects](#my-projects)
+*   [🛠️ Skills & Technologies](#️-skills--technologies)
+*   [GitHub Stats](#github-stats)
+*   [Codewars](#codewars)
+
+
+## 📱 Contact Me
 
 <div align="left" id="contact_badges">
   <a href="https://t.me/pestler" target="_blank">
@@ -21,7 +31,7 @@ Dive in and explore!
   </a>
 </div>
 
-<h2>How to Connect/Collaborate</h2>
+## How to Connect/Collaborate
 
 I'm always open to connecting with fellow developers, discussing new technologies, or exploring potential collaborations. Feel free to reach out through any of the contact methods above!
 
@@ -37,16 +47,20 @@ A Node.js project serving as a home library, built with TypeScript.
 A clone of an RS app, developed as the final task for an Angular course (2025Q3) using TypeScript.
 [Repository Link](https://github.com/pestler/app-clone-angular)
 
-<h2>🔝 Top Languages</h2>
+## 🛠️ Skills & Technologies
 
+Here are some of the key languages, frameworks, and tools I work with:
+
+### Languages
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
-[![Styled Components][Styled Components]][Styled Components-url]
 [![Markdown][Markdown]][Markdown-url]
+[![SQL][SQL]][SQL-url]
 
+### Frontend Frameworks & Libraries
 [![Angular][Angular]][Angular-url]
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![RxJS][RxJS]][RxJS-url]
@@ -55,16 +69,18 @@ A clone of an RS app, developed as the final task for an Angular course (2025Q3)
 [![React][React]][React-url]
 [![React Router][React Router]][React Router-url]
 [![Next JS][Next JS]][Next JS-url]
+[![Styled Components][Styled Components]][Styled Components-url]
 
+### Backend & Runtime
 [![Node JS][Node JS]][Node JS-url]
 [![Nest JS][Nest JS]][Nest JS-url]
 [![Prisma][Prisma]][Prisma-url]
+[![Firebase][Firebase]][Firebase-url]
+
+### Tools & Platforms
 [![Postman][Postman]][Postman-url]
 [![Axios][Axios]][Axios-url]
 [![WebSocket][WebSocket]][WebSocket-url]
-[![SQL][SQL]][SQL-url]
-[![Firebase][Firebase]][Firebase-url]
-
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
@@ -103,7 +119,7 @@ Here's an overview of my GitHub activity and contributions:
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
-### Codewars
+## Codewars
 [![codewars](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
 
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
