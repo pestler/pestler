@@ -1,12 +1,23 @@
-<p align="center">
-<img src="https://git-profile-readme-banner.vercel.app/api/python?username=pestler&txt=front-end%20developer%20learning%20in%20RS%20School&bg=beige&fill=gray">
-</p>
+### 👋 About Me
+
+Hi there!  
+I'm **Aleh Pestler**, a passionate front-end developer currently enhancing my skills at RS School.  
+This personal repository is a dynamic showcase of my projects, continuous learning journey, and the diverse technologies I'm proficient in.  
+Dive in and explore!
+
+---
 
 <h2>📱 Contact Me</h2>
 
 <div align="left" id="contact_badges">
   <a href="https://t.me/pestler" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/pestler/pestler" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aleh-pestler/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -68,11 +79,9 @@
     <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="Copilot Blue Head Animation">
 </p>
 
-<p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBvZjhsaXE0NzZ3YmxnOWhndWF0bXR2ODE2aGpzdXdrNzhsenEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp" alt="Coding Animation">
-</p>
 
-![](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
+
+![GitHub profile views](https://komarev.com/ghpvc/?username=pestler&color=red&style=for-the-badge)
 
 ### Codewars
 [![codewars](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
