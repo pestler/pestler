@@ -56,30 +56,36 @@ A clone of an RS app, developed as the final task for an Angular course (2025Q3)
 ## 🛠️ Skills & Expertise
 
 ### 🎨 Frontend Development
+My core expertise in building user interfaces:
 *   **HTML5, CSS3, SASS** – crafting semantic, responsive, and visually precise interfaces
 *   **JavaScript, TypeScript** – advanced ES6+, asynchronous programming, and typed systems
 *   **Styled Components, Markdown** – modular styling and structured documentation
 
 ### ⚡ Frontend Frameworks & Libraries
+Leveraging modern frameworks and libraries for robust applications:
 *   **Angular** (AngularMaterial, RxJS, NgRx, Redux) – scalable SPA architecture & state management
 *   **React, React Router, Next.js** – SSR/SPA development, dynamic routing, and optimization
 
 ### 🛠️ Backend Development
+Building scalable and efficient server-side solutions:
 *   **Node.js, NestJS** – RESTful APIs, authentication, ORM management with Prisma
 *   **SQL, Firebase** – designing relational & cloud-based databases for scalable solutions
 *   **WebSockets, Axios, Postman** – real-time communication, API testing & optimization
 
 ### 🚀 DevOps & CI/CD
+Streamlining development workflows and deployment processes:
 *   **Git, GitHub, GitHub Actions** – version control & automated deployment pipelines
 *   **Docker** – containerization for scalability & reproducibility
 *   **Netlify** – frontend deployment & cloud integration
 
 ### ⚙️ Development Tools & Best Practices
+Utilizing a range of tools and adhering to best practices for quality and efficiency:
 *   **pnpm, npm, Vite, Webpack** – efficient builds & performance optimization
 *   **Husky, ESLint, Airbnb, Prettier** – code quality enforcement
 *   **Vitest, Jest, Jasmine** – unit & integration testing
 
 ### 🎯 Project Management & UI/UX Collaboration
+Collaborating effectively and managing projects with key tools:
 *   **Trello, Figma** – workflow management & UI/UX collaboration
 *   **VSCode, gemini, Copilot** – enhancing development efficiency with AI-assisted coding
 
@@ -108,12 +114,12 @@ Here's an overview of my GitHub activity and contributions:
 
 Here you can list your educational background, courses completed, and any certifications you've obtained.
 
-*   [RS School Certificate](https://app.rs.school/certificate/xioeoxg7)
-*   [RS School Certificate](https://app.rs.school/certificate/bhms8qfp)
-*   [RS School Certificate](https://app.rs.school/certificate/nlcsdgyn)
-*   [RS School Certificate](https://app.rs.school/certificate/w4x84uks)
+*   [ANGULAR 2025Q3](https://app.rs.school/certificate/xioeoxg7)
+*   [NODEJS 2025 Q2 (NODEJS)](https://app.rs.school/certificate/bhms8qfp)
+*   [REACT 2025 Q1 (REACT)](https://app.rs.school/certificate/nlcsdgyn)
+*   [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/w4x84uks)
 *   **CodePen** - The Rolling Scopes School (Issued July 2023)
-    *   [Accreditation ID](https://www.codewars.com/users/rsschool_f70de6a01e7d1393)
+    [Accreditation ID](https://www.codewars.com/users/rsschool_f70de6a01e7d1393)
 
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
