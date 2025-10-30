@@ -1,8 +1,8 @@
 ### 👋 About Me
 
-Hello!  
-I am a curious and hardworking person. I am constantly learning and improving my skills every day.  
-I have experience in developing client and server parts of applications, working with databases, creating SPA applications.  
+Hello!
+I am a curious and hardworking person. I am constantly learning and improving my skills every day.
+I have experience in developing client and server parts of applications, working with databases, creating SPA applications.
 Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 ---
@@ -37,8 +37,6 @@ Able to effectively self-manage during independent projects, as well as collabor
 I'm always open to connecting with fellow developers, discussing new technologies, or exploring potential collaborations. Feel free to reach out through any of the contact methods above!
 
 ## 🎓 Learning & Certifications
-
-Here you can list your educational background, courses completed, and any certifications you've obtained.
 
 *   [ANGULAR 2025Q3](https://app.rs.school/certificate/xioeoxg7)
 *   [NODEJS 2025 Q2 (NODEJS)](https://app.rs.school/certificate/bhms8qfp)
