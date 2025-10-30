@@ -11,6 +11,7 @@ Able to effectively self-manage during independent projects, as well as collabor
 
 *   [📱 Contact Me](#-contact-me)
 *   [How to Connect/Collaborate](#how-to-connectcollaborate)
+*   [🎓 Learning & Certifications](#-learning--certifications)
 *   [My Projects](#my-projects)
 *   [🛠️ Skills & Technologies](#️-skills--technologies)
 *   [GitHub Stats](#github-stats)
@@ -34,6 +35,17 @@ Able to effectively self-manage during independent projects, as well as collabor
 ## How to Connect/Collaborate
 
 I'm always open to connecting with fellow developers, discussing new technologies, or exploring potential collaborations. Feel free to reach out through any of the contact methods above!
+
+## 🎓 Learning & Certifications
+
+Here you can list your educational background, courses completed, and any certifications you've obtained.
+
+*   [ANGULAR 2025Q3](https://app.rs.school/certificate/xioeoxg7)
+*   [NODEJS 2025 Q2 (NODEJS)](https://app.rs.school/certificate/bhms8qfp)
+*   [REACT 2025 Q1 (REACT)](https://app.rs.school/certificate/nlcsdgyn)
+*   [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/w4x84uks)
+*   **CodePen** - The Rolling Scopes School (Issued July 2023)
+    [Accreditation ID](https://www.codewars.com/users/rsschool_f70de6a01e7d1393)
 
 ## My Projects
 
@@ -109,17 +121,6 @@ Here's an overview of my GitHub activity and contributions:
 
 ## Codewars
 [![codewars](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)](https://www.codewars.com/users/rsschool_f70de6a01e7d1393/badges/large)
-
-## 🎓 Learning & Certifications
-
-Here you can list your educational background, courses completed, and any certifications you've obtained.
-
-*   [ANGULAR 2025Q3](https://app.rs.school/certificate/xioeoxg7)
-*   [NODEJS 2025 Q2 (NODEJS)](https://app.rs.school/certificate/bhms8qfp)
-*   [REACT 2025 Q1 (REACT)](https://app.rs.school/certificate/nlcsdgyn)
-*   [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/w4x84uks)
-*   **CodePen** - The Rolling Scopes School (Issued July 2023)
-    [Accreditation ID](https://www.codewars.com/users/rsschool_f70de6a01e7d1393)
 
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
